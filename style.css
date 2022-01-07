@@ -5,7 +5,7 @@
     
 }
 .section1{
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("/PROJECT 1/New folder/eduford_img/banner.png");
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("banner.png");
     min-width:100%;
     min-height:100vh;
     background-position: center;
@@ -198,7 +198,7 @@ nav {
 }
 
 .enroll{
-    background-image:linear-gradient(rgba(95, 87, 87, 0.7),rgba(95, 87, 87, 0.7)),url("/PROJECT 1/New folder/eduford_img/banner2.jpg");
+    background-image:linear-gradient(rgba(95, 87, 87, 0.7),rgba(95, 87, 87, 0.7)),url("banner2.jpg");
     margin:100px auto;
     background-size:cover;
     max-width:80%;
